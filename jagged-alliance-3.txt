@@ -1,0 +1,72 @@
+KEY:
+    [completed] = completed clue
+    TB = turn based
+
+TODO
+  Martha husband is with deedee go get him !!!
+  train militia
+  clear the fort
+
+TIPS - these were learned through trial and error, I would recommend getting the same experience
+  I'm Skint! - Keep an eye on for diamond shipments and search every corner, militia men seem to have holes in their pockets. 
+  I'm Broke! - Diamond mines are a lucrative if somewhat questionable means of long term wealth 
+  Who can disarm this? - disarm means boom, disable means mech
+  Keep stepping on mines? - Have a stealth demo available 
+  Can you hear me? - Your characters dont have to be near a conversation to be in it
+  Will this blow me up? - mines have no idea who the fuck you are
+  Will I get this back? - Defusing mines does not return them to your inventory, you fucked the wires up mate
+  I will fight to the last! - it gets real hard to fight to the last if you kill off all their friends and put a bullet in their leg
+
+KEYBINDS
+  tactical:
+  ESC ESCAPE THAT FUCKING ACTION - this one is not even in the keybinds so I think its intentionally for you to figure out: stops the current action when not in TB mode, very useful
+  N baNdage - medical treatment
+  J Just get out of the way - take cover
+  H Hide - activate sneak
+  U Use a different weapon - swap between loadouts 1 & 2
+  T Top - Change view up a floor
+  G Ground - Change view down a floor
+  ALT ALTernatively just have a look around - pins discovered interactions as little blue boxes in your ui
+
+  strategic:
+  C Cee the mercs - view merc info
+  J Just get organised - organise squads
+
+ENEMIES
+  blaster man - RPG 
+  raid leader ?
+  goon ?
+  marauder ?
+  makasi ? Rifle
+
+OFFICIAL TODO
+  Secure the diamond mines
+  Earn the loyalty of the local populace
+
+PRESIDENT - alphonse la phontaine
+  e la is the presidents daughter 
+  e la untrustworthy
+  e la important at adonis
+  president is paying for mercs
+
+MILITIA - Legion accent on the O
+  Major is the leader
+  base is camp crocodile in milles accent on e
+  Luc is pierre dad
+  pierre leader of legion misguided
+
+ISLAND - Ernie accent on the E
+  tinhay good man
+  Tinhay shot at pierre
+  B somethin minefield resolved saved him
+  [dodgy rocks fancy new boat where] need boat
+  DeeDee is electronics gyal in bottom right of island
+  militia strong hold is fort l'eau bleu
+
+OTHER MERCS - ADONIS - M.E.R.C?
+  We are with Adonis but as sub contractors
+  "exclusive rights"
+  Give them a ride
+
+MISC
+  ref XEP625
