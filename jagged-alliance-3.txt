@@ -1,3 +1,8 @@
+ACCREDITATIONS:
+TODO
+- tips guide
+- strategy guide
+
 KEY:
     [completed] = completed clue
     TB = turn based
@@ -6,35 +11,48 @@ TODO
   Martha husband is with deedee go get him !!!
   train militia
   clear the fort
+  
+[LICENSE LINK]
 
-TIPS - these were learned through trial and error, I would recommend getting the same experience
+PREFACE: 
+  I wrote this guide while being a MERC (as a tool for myself, hence the key above), and I would recommend you have a similar experience.
+  Being a MERC is confusing and often frustating. Don't be ashamed to have another bash at an operation but don't spend too long pouring over the tiny details. Find the balance between good enough and perfect that suits you.
+  But no seriously, we're mercs, we get bored if you leave us too long and won't always do what you tell us unless you keep us on your good side. Back to work!
+
+
+TIPS - these were learned through trial and error, I would recommend getting the same experience but I've tried to write them in a way that doesn't give the game away, so to speak. If you feel one of these issues too much then reveal the hint.
   I'm Skint! - Keep an eye on for diamond shipments and search every corner, militia men seem to have holes in their pockets. 
-  I'm Broke! - Diamond mines are a lucrative if somewhat questionable means of long term wealth 
-  Who can disarm this? - disarm means boom, disable means mech
-  Keep stepping on mines? - Have a stealth demo available 
-  Can you hear me? - Your characters dont have to be near a conversation to be in it
-  Will this blow me up? - mines have no idea who the fuck you are
-  Will I get this back? - Defusing mines does not return them to your inventory, you fucked the wires up mate
-  I will fight to the last! - it gets real hard to fight to the last if you kill off all their friends and put a bullet in their leg
+  I'm Broke! - Diamond mines are a lucrative if somewhat questionable means of long term wealth.
+  Who can disarm this? - disarm means boom, disable means mech.
+  Keep stepping on mines? - Have you tried not? Sneaky guy with a penchant for bombs can be very useful.
+  Can you hear me? - mercs dont have to be near a conversation to be in it, got that fangdangled bluetooth stuff nowadays.
+  Will this blow me up? - mines have no idea who the fuck you are.
+  Will I get this back? - Defusing mines does not return them to your inventory; you screwed the wires up mate.
+  Will he fight to the last? - it's real hard to fight when all your friends are brown bread and you've got hole in your leg.
+  One at a time! - if you're getting bored of looting try to optimise who you send where, after all, what are MERCs for if not looting?
+  Why does this doofus suck? - The numbers feel deceptively high but consider 50 average knowledge. You probably have average knowledge of a car, can you fix my catalytic converter?
 
 KEYBINDS
   tactical:
-  ESC ESCAPE THAT FUCKING ACTION - this one is not even in the keybinds so I think its intentionally for you to figure out: stops the current action when not in TB mode, very useful
-  N baNdage - medical treatment
-  J Just get out of the way - take cover
-  H Hide - activate sneak
-  U Use a different weapon - swap between loadouts 1 & 2
-  T Top - Change view up a floor
-  G Ground - Change view down a floor
-  ALT ALTernatively just have a look around - pins discovered interactions as little blue boxes in your ui
+  ESC - ESCAPE THAT FUCKING ACTION - this one is not even in the keybinds so I think its intentionally for you to figure out: stops the current action when not in TB mode, very useful but also a bit of a crutch. Why are you telling mercs to do things that you don't want them to do?
+  N baNdage - medical treatment.
+  J Just get out of the way - take cover.
+  H Hide - activate sneak.
+  U Use a different weapon - swap between loadouts 1 & 2.
+  T Top - Change view up a floor.
+  G Ground - Change view down a floor.
+  ALT ALTernatively just have a look around - pins discovered interactions as little blue boxes in your ui.
 
   strategic:
-  C Cee the mercs - view merc info
-  J Just get organised - organise squads
+  C Cee the mercs - view merc info.
+  J Just get organised - organise the squads.
+  F2 - Lets go 2 the internet - I don't know, the F keys are the ones that distract you the most from doing your job so maybe that's why they don't make sense? This opens the browser where you can view contracts and get new MERCS. Don't forget to take your I.M.P test, please read *all* the instructions before filling out your paper, you may find a short circuit in the system.
+  F4 - Dont 4Got your notes - this ones also a strech but it opens the notes tab.
+  F6 -  I'm taking that I cannot create a mnemnonic for this as a sign that I need to get back to playing the game, so should you! - It's your emails, there's uhh definitely some stuff in here that's useful so you better read it just to be sure.
 
 ENEMIES
-  blaster man - RPG 
-  raid leader ?
+  blaster man - BIG BIG BOOM
+  raid leader - I assume he's in charge but I haven't managed to kill one of em first yet.
   goon ?
   marauder ?
   makasi ? Rifle
