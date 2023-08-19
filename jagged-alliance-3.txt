@@ -7,22 +7,28 @@ KEY:
     [completed] = completed clue
     TB = turn based
 
-TODO
-  Martha husband is with deedee go get him !!!
-  train militia
-  clear the fort
-  
-[LICENSE LINK]
+This section is my personal running todo list as a MERC, unfortunately I am one of the more scatterbrained mercenaries that you'll meet so I need this to stay focused.
+THIS MAY INCLUDE VERY BIG SPOILERS, I DONT KNOW YET I AM JUST A SIMPLE MERCENARY. 
+seriously though, reveal this at your peril, it might help, but it might also take some of the calamatous fun out of being a merc.
+Running TODO
+  [Martha husband is with deedee go get him !!!]
+  [train militia]
+  [clear the fort]
+
+This guide is licenced under the GPL V14231.asdf yada yada: [LICENSE LINK]
 
 PREFACE: 
-  I wrote this guide while being a MERC (as a tool for myself, hence the key above), and I would recommend you have a similar experience.
+  I wrote this guide for being a M.E.R.C whilst being a MERC (as a tool for myself, hence the key above), and I would recommend you have a similar experience (as in, the joy of being a mercenary is working out what you want to do).
   Being a MERC is confusing and often frustating. Don't be ashamed to have another bash at an operation but don't spend too long pouring over the tiny details. Find the balance between good enough and perfect that suits you.
-  But no seriously, we're mercs, we get bored if you leave us too long and won't always do what you tell us unless you keep us on your good side. Back to work!
+  But no seriously, we're mercs; we get bored if you leave us too long and won't always do what you tell us unless you keep us on your good side. Back to work!
+
+  AT ALL COSTS avoid analysis paralysis, that was one from a good friend of mine that I haven't seen in toooo long.
 
 
 TIPS - these were learned through trial and error, I would recommend getting the same experience but I've tried to write them in a way that doesn't give the game away, so to speak. If you feel one of these issues too much then reveal the hint.
   I'm Skint! - Keep an eye on for diamond shipments and search every corner, militia men seem to have holes in their pockets. 
   I'm Broke! - Diamond mines are a lucrative if somewhat questionable means of long term wealth.
+  Why won't this bloody thing shoot? - similar to why do I suck, picture how the average merc treats their average thing. Average is great when average is what you need, but when you need pristine...
   Who can disarm this? - disarm means boom, disable means mech.
   Keep stepping on mines? - Have you tried not? Sneaky guy with a penchant for bombs can be very useful.
   Can you hear me? - mercs dont have to be near a conversation to be in it, got that fangdangled bluetooth stuff nowadays.
@@ -31,6 +37,14 @@ TIPS - these were learned through trial and error, I would recommend getting the
   Will he fight to the last? - it's real hard to fight when all your friends are brown bread and you've got hole in your leg.
   One at a time! - if you're getting bored of looting try to optimise who you send where, after all, what are MERCs for if not looting?
   Why does this doofus suck? - The numbers feel deceptively high but consider 50 average knowledge. You probably have average knowledge of a car, can you fix my catalytic converter?
+  Where did all the time go? - There's a few gotchas here but most of it is reasonable:
+      Take some SPACE if you need things to chill out in the sat view
+      Time does not move while in tac view, because when you're thinking tactically time feels like its standing still.
+      Division of labour. Seperate out your squad'/ses to perform different operations to suit their needs, wants and abilities.
+      Got all your operations set up? Nice: Time will immediately start rolling after you hit confirm, afterall, mercs have work to do.
+  What are the major consequences of this? - I dont know, who knows? go with your gut merc. There aren't really any bad consequences, just go with the consequences you want. Sometimes there aren't any consequences at all, my brain says there "maybe" consequences after all.
+  But what are the consequences I want? - You tell me? I am not here to tell another M.E.R.C how to do their job. Pay attention to what people say to understand what the consequence of what you say will be.
+  But I cant be bothered to read all this text! - I am M.E.R.C, I cant even read. Just shut up and do your job, there's legion out there waiting for a stomping.
 
 KEYBINDS
   tactical:
@@ -46,16 +60,16 @@ KEYBINDS
   strategic:
   C Cee the mercs - view merc info.
   J Just get organised - organise the squads.
-  F2 - Lets go 2 the internet - I don't know, the F keys are the ones that distract you the most from doing your job so maybe that's why they don't make sense? This opens the browser where you can view contracts and get new MERCS. Don't forget to take your I.M.P test, please read *all* the instructions before filling out your paper, you may find a short circuit in the system.
+  F2 - Lets go 2 the internet - I don't know, the F keys are the ones that distract you the most from doing your job so maybe that's why they don't make sense? This opens the browser where you can view contracts and get new (or old) MERCS. Don't forget to take your I.M.P test, please read *all* the instructions before filling out your paper, you may find a short circuit in the system if that's too your liking.
   F4 - Dont 4Got your notes - this ones also a strech but it opens the notes tab.
-  F6 -  I'm taking that I cannot create a mnemnonic for this as a sign that I need to get back to playing the game, so should you! - It's your emails, there's uhh definitely some stuff in here that's useful so you better read it just to be sure.
+  F6 -  I'm taking, that I cannot create a mnemnonic for this as a sign that I need to get back to playing the game; so should you! - It's your emails, there's uhh definitely some stuff in here that's useful so you better read it just to be sure.
 
 ENEMIES
   blaster man - BIG BIG BOOM
   raid leader - I assume he's in charge but I haven't managed to kill one of em first yet.
-  goon ?
-  marauder ?
-  makasi ? Rifle
+  goon ? just a goon I think
+  marauder ? kind of like a goon but more rauderer
+  makasi ? if a goon and a snake had a baby?
 
 OFFICIAL TODO
   Secure the diamond mines
@@ -80,6 +94,7 @@ ISLAND - Ernie accent on the E
   [dodgy rocks fancy new boat where] need boat
   DeeDee is electronics gyal in bottom right of island
   militia strong hold is fort l'eau bleu
+  B/m/ernie shot tinhay damn
 
 OTHER MERCS - ADONIS - M.E.R.C?
   We are with Adonis but as sub contractors
